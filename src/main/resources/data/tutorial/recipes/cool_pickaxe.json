@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    " R ",
+    "   "
+  ],
+  "key": {
+    "W": {
+      "item": "tutorial:cool_head"
+    },
+    "R": {
+      "item": "tutorial:cool_stick"
+    }
+  },
+  "result": {
+    "item": "tutorial:cool_pickaxe"
+  }
+}
+
